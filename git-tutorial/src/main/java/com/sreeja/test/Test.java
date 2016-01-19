@@ -6,6 +6,7 @@ public class Test {
 		
 		System.out.println("Test class");
 		System.out.println("Resolving conflict");
+		System.out.println("Generating a conflict");
 	}
 
 }
